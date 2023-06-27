@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hồ Quốc Thái</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
-- 👨‍💻 All of my projects are available at [https://top10bestwebsitehosting.000webhostapp.com/](https://top10bestwebsitehosting.000webhostapp.com/)
+- 👨‍💻 My projects are available at [https://top10bestwebsitehosting.000webhostapp.com/](https://top10bestwebsitehosting.000webhostapp.com/)
 
 - 💬 Ask me about **React.JS**
 
