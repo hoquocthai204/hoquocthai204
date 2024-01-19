@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hồ Quốc Thái</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
-- 👨‍💻 My projects are available at [https://top10bestwebsitehosting.000webhostapp.com/](https://top10bestwebsitehosting.000webhostapp.com/)
+- 👨‍💻 My projects are available at [https://tiktok-clone-peach.vercel.app/](https://tiktok-clone-peach.vercel.app/)
 
-- 💬 Ask me about **React.JS**
+- 💬 Ask me about **React.JS**, **Java**
 
 - 📫 How to reach me **hoquocthai204@gmail.com**
 
